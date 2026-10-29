@@ -1,0 +1,8 @@
+NBA 2024-25: 3-point volume vs. efficiency
+Players with >= 150 3PA: 243
+League 3P% (all players, attempt-weighted): 36.02%
+Pearson correlation (3PA/game vs 3P%): r=0.1476, p=0.021354
+Result at alpha=0.05: statistically significant
+OLS slope: 0.315 percentage points per additional 3PA/game
+NOTE: Observational, player-level correlation; no causal interpretation.
+NOTE: Selection threshold and player roles can bias the association.

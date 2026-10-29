@@ -1,0 +1,10 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+nba_shooting.sqlite
+.env
+.ipynb_checkpoints/
+output/player_results.csv
